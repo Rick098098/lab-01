@@ -11,6 +11,6 @@ public class Scorpion extends Pet {
         super(name, birthDate);
     }
     public String speak(){
-        return"meotherfucker!";
+        return"Ssss!";
     }
 }

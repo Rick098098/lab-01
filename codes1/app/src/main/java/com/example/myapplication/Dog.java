@@ -11,7 +11,7 @@ public class Dog extends Pet implements Pettable {
         super(name, birthDate);
     }
     public String speak(){
-        return"meotherfucker!";
+        return"Woof!";
     }
 
     public void pet(){

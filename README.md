@@ -2,14 +2,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Yixing Li`
+- **CCID:** `1773529`
 
-## References and Resources
+## References and Resources `TAs`
 
 List any resources used here, or simply put `N/A` if not applicable.
 
-## Verbal Collaboration
+## Verbal Collaboration `None`
 
 | Student Name | CCID      |
 | ------------ | --------- |
