@@ -10,10 +10,12 @@ public class Dog extends Pet implements Pettable {
     public Dog(String name, Date birthDate){
         super(name, birthDate);
     }
+    @Override
     public String speak(){
         return"Woof!";
     }
 
+    @Override
     public void pet(){
 
     }

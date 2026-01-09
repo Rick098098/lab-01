@@ -46,6 +46,8 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+
         Cat cat = new Cat("Sheriff");
         Dog dog = new Dog("Smarty");
         Scorpion scorpion = new Scorpion("kinky");

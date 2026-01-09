@@ -10,9 +10,11 @@ public class Cat extends Pet implements Pettable{
     public Cat(String name, Date birthDate){
         super(name, birthDate);
     }
+    @Override
     public String speak(){
         return"meow!!";
     }
+    @Override
     public void pet(){
 
     }
